@@ -80,6 +80,7 @@ dev = [
 [tool.setuptools]
 packages = [
     "discord",
+    "discord.devious",
     "discord.types",
     "discord.ui",
     "discord.webhook",
